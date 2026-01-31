@@ -47,9 +47,14 @@ I care about **clean architecture, performance, and solving real-world problems*
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bennydan7&show_icons=true&theme=radical)
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bennydan7&theme=radical)
+
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=bennydan7&theme=radical)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bennydan7&theme=radical)
+
+
+
+
 
 ---
 
